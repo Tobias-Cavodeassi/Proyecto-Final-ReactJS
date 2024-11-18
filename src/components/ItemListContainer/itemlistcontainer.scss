@@ -1,0 +1,19 @@
+.greeting{
+    padding: 25px;
+}
+.catalogo{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.product{
+    padding: 50px;
+}
+.product_details{
+    color: rgb(40, 40, 40);
+    transition: color 0.3s;
+}
+.itemlistcontainer{
+    margin: 20px;
+}
